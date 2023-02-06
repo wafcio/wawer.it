@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wawer.IT</title>
+    <description>Helping with cleaning up legacy code and improving development process.
+</description>
+    <link>https://wawer.it/</link>
+    <atom:link href="https://wawer.it/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 06 Feb 2023 21:30:54 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Feb 2023 21:30:54 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>Hello... world!</title>
+        <description>&lt;p&gt;I will present in this blog how can we improve huge (sometimes legacy) application, speed up delelopment process and increase deliver by implementing design patterns.&lt;/p&gt;
+
+&lt;h2 id=&quot;everything-starts-with-chaos&quot;&gt;&lt;em&gt;Everything starts with chaos…&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;Everytime when we jump into new project which was developed from some time we need to learn a lot about project domain, used code style(s), …&lt;/p&gt;
+
+&lt;p&gt;In ideal world project should contain one code style in whole application, use the same coding approach like used the same design patterns. Contrary in real world we usually meet big mess with a lot of unknowns. You don’t need to jump to DDD (Domain Driven Design) to fix and simplify code.&lt;/p&gt;
+
+&lt;p&gt;Developers forget about Design Patterns. With knowing them and using them in consitency way you can achive really good architecture.&lt;/p&gt;
+
+&lt;h2 id=&quot;approaches&quot;&gt;Approaches&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;RailsWay is good for MVP and very simple startups&lt;/li&gt;
+  &lt;li&gt;DDD (Domain Driven Design) is worth to know but it isn’t necessary&lt;/li&gt;
+  &lt;li&gt;Knowing Design Patterns is must have&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;design-patterns&quot;&gt;Design Patterns&lt;/h4&gt;
+
+&lt;p&gt;Knowledge about Design Patterns you can find for example here:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;book &lt;a href=&quot;https://www.amazon.com/Design-patterns-elements-reusable-object-oriented/dp/0201633612/ref=asc_df_0201633612/&quot;&gt;“Design Patterns: Elements of Reusable Object-Oriented Softwar”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;website &lt;a href=&quot;https://refactoring.guru/design-patterns&quot;&gt;https://refactoring.guru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Decision is in your hands.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Jan 2023 08:00:00 +0000</pubDate>
+        <link>https://wawer.it/2023/01/31/hello-world.html</link>
+        <guid isPermaLink="true">https://wawer.it/2023/01/31/hello-world.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
