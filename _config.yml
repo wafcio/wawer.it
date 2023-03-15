@@ -1,0 +1,11 @@
+# Site settings
+title: Wawer.IT
+email: krzysztof@wawer.it
+description: > # this means to ignore newlines until "baseurl:"
+  Helping with cleaning up legacy code and improving development process.
+domain: wawer.it
+url: "https://wawer.it" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+# Build settings
+markdown: kramdown
