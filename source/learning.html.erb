@@ -1,0 +1,52 @@
+---
+title: Learning | Chris Wawer
+---
+
+<!--================ Start Banner Area =================-->
+<section class="banner_area">
+    <div class="banner_inner d-flex align-items-center">
+        <div class="container">
+            <div class="banner_content text-center">
+                <h2>Learning</h2>
+                <div class="page_link">
+                    <%= link_to "Home", "/" %>
+                    <%= link_to "Learning", "/learning.html" %>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================ End Banner Area =================-->
+
+<!--================Start Portfolio Details Area =================-->
+<section class="portfolio_details_area section_gap">
+    <div class="container">
+        <div class="portfolio_details_inner">
+            <div class="row">
+                <div class="col-lg-12">
+                  <p>The courses offered here provide a unique, practice-oriented approach that combines clear theoretical explanations with hands-on exercises designed to solidify your skills. Each module includes mini-challenges and quizzes to ensure thorough understanding, alongside checklists and cheatsheets for easy reference. What truly makes these courses stand out is the focus on creating real, public projects that become part of your portfolio—allowing you to demonstrate your knowledge through tangible, professional work. This method not only helps you learn effectively but also builds a strong portfolio that sets you apart in your career.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="left_img">
+                        <%= image_tag("learning/docker-from-zero-to-hero.png", class: "img-fluid") %>
+                    </div>
+                </div>
+                <div class="offset-lg-1 col-lg-5">
+                    <div class="portfolio_right_text mt-30">
+                        <h4 class="text-uppercase">
+                          <%= link_to "Docker: From Zero to Hero", "/learning/docker-from-zero-to-hero.html" %>
+                        </h4>
+                        <p>
+                            This beginner-friendly course is designed to help anyone learn how to use Docker fluently in daily work. No prior experience is needed — you'll start with the basics and build up practical skills step by step. By the end, you'll feel confident using Docker to containerize applications, manage containers, and work with real-world projects.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Portfolio Details Area =================-->
+
+<%#= partial "newsletter" %>
